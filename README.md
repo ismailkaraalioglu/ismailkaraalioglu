@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I’m İsmail.</h1> 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eralpozcan&theme=onedark" alt="eralpozcan" /></a> </p>
-
 * 🌱 I’m currently learning **React.js** and **Redux**
 
 * 💬 Ask me about **HTML**, **CSS**, **Bootstrap**, **JavaScript**
