@@ -2,7 +2,7 @@
 
 * 🌱 I’m currently learning **Redux**
 
-* 💬 Ask me about **HTML**, **CSS**, **Bootstrap**, **JavaScript**
+* 💬 Ask me about **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **React**
 
 - 📫 How to reach me: ismailkaraalioglu@yandex.com
 
