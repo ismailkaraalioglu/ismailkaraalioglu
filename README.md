@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I’m İsmail.</h1> 
 
-* 🌱 I’m currently learning **React.js** and **Redux**
+* 🌱 I’m currently learning **Redux**
 
 * 💬 Ask me about **HTML**, **CSS**, **Bootstrap**, **JavaScript**
 
