@@ -4,7 +4,7 @@
 
 * 💬 Ask me about **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **React**
 
-- 📫 How to reach me: ismailkaraalioglu@yandex.com
+* 📫 How to reach me: ismailkaraalioglu@yandex.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
