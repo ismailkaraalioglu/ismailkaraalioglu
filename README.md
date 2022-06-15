@@ -27,6 +27,3 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ismailkaraalioglu&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula">
 </div>
-<div>
-<img src="https://api.visitorbadge.io/api/visitors?path=ismailkaraalioglu&label=visitors&labelColor=%23697689&countColor=%23ff8a65&style=for-the-badge">
-</div>
