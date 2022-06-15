@@ -27,3 +27,5 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ismailkaraalioglu&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula">
 </div>
+
+[![İsmail's github stats](https://github-readme-stats.vercel.app/api?username=ismailkaraalioglu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ismailkaraalioglu/github-readme-stats)
