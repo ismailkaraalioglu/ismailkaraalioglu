@@ -7,7 +7,9 @@
 💬&nbsp;Ask me about **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **React** <br />
 📫&nbsp;How to reach me: ismailkaraalioglu@yandex.com <br />
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
+
+<img height="280px" align="right" alt="Github Header" src="images/coding_2.gif" />
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -49,6 +51,7 @@
 </a> 
 </p>
  
+<br />
 <br />
  
  ### ⚙️ &nbsp;GitHub Analytics
