@@ -11,6 +11,8 @@
 
 <img height="280px" align="right" alt="Github Header" src="images/coding_2.gif" />
 
+<br />
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
