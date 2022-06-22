@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I’m İsmail.</h1> 
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I’m İsmail</h1> 
 
-* 🌱 I’m currently learning **Redux**
+### 👨🏻‍💻 &nbsp;About Me
 
-* 💬 Ask me about **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **React**
-
-* 📫 How to reach me: ismailkaraalioglu@yandex.com
+🌱&nbsp;I’m currently learning **Redux** <br />
+💡&nbsp;&nbsp;I love discovering new technologies and developing software solutions <br />
+💬&nbsp;Ask me about **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **React** <br />
+📫&nbsp;How to reach me: ismailkaraalioglu@yandex.com <br />
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -58,6 +59,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ismailkaraalioglu&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
- 
-
- 
