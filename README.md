@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🌱&nbsp;I’m currently learning **Redux** <br />
-💡&nbsp;&nbsp;I love discovering new technologies and developing software solutions <br />
+💡&nbsp;&nbsp;I love discovering new technologies and developing software solutions. <br />
 💬&nbsp;Ask me about **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **React** <br />
 📫&nbsp;How to reach me: ismailkaraalioglu@yandex.com <br />
 
