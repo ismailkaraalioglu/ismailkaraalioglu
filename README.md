@@ -42,6 +42,9 @@
 <a href="https://getbootstrap.com">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35">  
 </a>
+<a href="https://tailwindcss.com">
+  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg' alt="tailwindcss" width="35" height="35">
+</a>
 <a href="https://www.javascript.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35">  
 </a>  
@@ -50,9 +53,6 @@
 </a>   
 <a href="https://redux.js.org">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="35" height="35">  
-</a>
-<a href="https://tailwindcss.com">
-  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg' alt="tailwindcss" width="35" height="35">
 </a>
 </p>
  
