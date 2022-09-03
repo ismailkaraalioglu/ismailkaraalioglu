@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🌱&nbsp;I’m currently learning **Redux** <br />
+🌱&nbsp;I’m currently learning **Frontend techs** <br />
 💡&nbsp;&nbsp;I love discovering new technologies and developing software solutions <br />
-💬&nbsp;Ask me about **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, **JavaScript**, **React** <br />
+💬&nbsp;Ask me about **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, **JavaScript**, **React**, **Redux** <br />
 📫&nbsp;How to reach me: ismailkaraalioglu@yandex.com <br />
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
