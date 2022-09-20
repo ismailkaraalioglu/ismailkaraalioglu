@@ -22,6 +22,9 @@
 <a href="https://twitter.com/KIsmailll">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismailkaraalioglu" height="25" width="30" />  
 </a>
+<a href="https://instagram.com/ismaillkaraalioglu">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismailkaraalioglu" height="25" width="30" />
+</a>
 <a href="https://www.hackerrank.com/ismailkaraaliog1">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ismailkaraalioglu" height="25" width="30" />  
 </a>
