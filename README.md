@@ -57,8 +57,12 @@
 <a href="https://redux.js.org">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="35" height="35">  
 </a>
+<br />
 <a href="https://postman.com">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="35"/>
+</a>
+<a href="https://graphql.org">
+  <img src="https://graphql.org/img/logo.svg" alt="postman" width="35" height="35"/>
 </a>
 </p>
  
