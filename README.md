@@ -50,7 +50,10 @@
 </a>
 <a href="https://www.javascript.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35">  
-</a>  
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="35" height="35">  
+</a>
 <a href="https://reactjs.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35">  
 </a>   
