@@ -4,7 +4,7 @@
 
 🌱&nbsp;I’m currently learning **Frontend techs** <br />
 💡&nbsp;&nbsp;I love discovering new technologies and developing software solutions <br />
-💬&nbsp;Ask me about **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, **JavaScript**, **React**, **NextJS**, **Redux** <br />
+💬&nbsp;Ask me about **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, **JavaScript**, **React**, **React Native**, **NextJS**, **Redux** <br />
 📫&nbsp;How to reach me: ismailkaraalioglu@yandex.com <br />
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
@@ -53,7 +53,10 @@
 </a>
 <a href="https://reactjs.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35">  
-</a>   
+</a>
+<a href="https://reactnative.dev/">
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+</a>
 <a href="https://nextjs.org/">
   <img src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" alt="nextjs" width="40" height="40">  
 </a>
