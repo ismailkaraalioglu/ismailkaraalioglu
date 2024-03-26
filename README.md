@@ -39,9 +39,6 @@
 <a href="https://www.w3schools.com/css/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35">  
 </a>
-<a href="https://getbootstrap.com">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35">  
-</a>
 <a href="https://tailwindcss.com">
   <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg' alt="tailwindcss" width="35" height="35">
 </a>
