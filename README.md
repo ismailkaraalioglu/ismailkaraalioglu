@@ -72,7 +72,7 @@
 
 <p align="center">
 <a href="https://github.com/ismailkaraalioglu">
-  <img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ismailkaraalioglu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ismailkaraalioglu&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ismailkaraalioglu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
