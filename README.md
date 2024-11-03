@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🌱&nbsp;I’m currently learning **Frontend techs** <br />
+🌱&nbsp;I’m currently learning **SwiftUI** <br />
 💡&nbsp;&nbsp;I love discovering new technologies and developing software solutions <br />
 💬&nbsp;Ask me about **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, **JavaScript**, **React**, **React Native**, **NextJS**, **Redux** <br />
 📫&nbsp;How to reach me: ismailkaraalioglu@yandex.com <br />
