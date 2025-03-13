@@ -55,7 +55,7 @@
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
 </a>
 <a href="https://nextjs.org/">
-  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/nextjs/nextjs-light.svg" alt="nextjs" width="40" height="40">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40">  
 </a>
 <a href="https://redux.js.org">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="35" height="35">  
